@@ -1,4 +1,4 @@
-# Datasource-Pattern-With-Swift
+# Datasource Pattern With Swift
 Here is a simple app with datasource pattern in Swift
 
 ## You can download the demo project & see whats is going on there ;)
